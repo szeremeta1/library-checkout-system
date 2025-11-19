@@ -63,7 +63,7 @@ These are the same data structures used by real companies like Google, Spotify, 
 ## How It's Organized
 
 ```
-library-checkout-system-midterm/
+library-checkout-system/
 ├── build.sh                  # Compile script
 ├── src/main/java/com/librarysystem/
 │   ├── LibrarySystem.java    # Main entry for CLI
