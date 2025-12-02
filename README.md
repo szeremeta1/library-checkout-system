@@ -35,16 +35,6 @@ A library checkout management system built in Java that demonstrates how data st
 - Everything you add stays saved between sessions
 - Uses Java serialization to store data to disk
 
-## Why This Project Matters (The DSA Connection)
-
-This project isn't just a library system—it's a **showcase of data structures in action**:
-
-- **HashMap** stores books by ISBN for super-fast lookups (O(1) average time)
-- **LinkedList** tracks checkouts in order with O(1) insertions
-- **PriorityQueue** uses a binary heap to always show the most overdue books first
-
-These are the same data structures used by real companies like Google, Spotify, and Netflix!
-
 ## How It's Organized
 
 ```
