@@ -1,12 +1,11 @@
 package com.librarysystem;
 
-import java.util.List;
-import java.util.Scanner;
-
 import com.librarysystem.model.Book;
 import com.librarysystem.model.Checkout;
 import com.librarysystem.model.Member;
 import com.librarysystem.service.LibraryService;
+import java.util.List;
+import java.util.Scanner;
 
 /**
  * Main entry point for the Library Checkout System
@@ -94,6 +93,7 @@ public class LibrarySystem {
         }
     }
 
+    
     /**
      * Member management submenu
      */

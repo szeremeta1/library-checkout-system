@@ -24,3 +24,4 @@ echo ""
 echo "Run the GUI version with:"
 echo "  java -cp \"$OUT_DIR\" com.librarysystem.gui.LibraryGUI"
 echo "=========================================="
+
