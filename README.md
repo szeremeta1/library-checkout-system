@@ -4,21 +4,6 @@ Monmouth County Libraries
 
 A library checkout management system built in Java that demonstrates how data structures and algorithms work in real-world applications. This project shows how to use custom implementations of **HashMap**, **LinkedList**, and **PriorityQueue** to build a complete system for managing books, members, and checkouts.
 
-## What Does This Project Do?
-
-Imagine you work at a library. You need to:
-
-- Keep track of all the books and how many copies you have
-- Let people register as members
-- Record when someone checks out a book and when they need to return it
-- Find books that are overdue and calculate late fees
-- See statistics about what's checked out
-
-This project automates all of that! It provides two ways to interact with it:
-
-- **GUI (Graphical Interface)**: Click buttons and fill in forms
-- **CLI (Command Line Interface)**: Type commands in a terminal
-
 ## Key Features
 
 ### Book Management
