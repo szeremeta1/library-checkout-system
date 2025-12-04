@@ -57,7 +57,7 @@ library-checkout-system/
 └── library_data.ser          # Auto-created data file
 ```
 
-**Key insight:** The data structures are in `src/main/java/com/librarysystem/data/`. These are NOT Java's built-in classes.
+The data structures are in `src/main/java/com/librarysystem/data/`. These are NOT Java's built-in classes.
 
 ## Building and Running
 
