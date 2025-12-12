@@ -29,4 +29,5 @@ replay_pid*.log
 # Library data files
 library_data.ser
 *.pdf
+*.pptx
 

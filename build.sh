@@ -6,7 +6,7 @@ PROJECT_ROOT="$(cd "$(dirname "$0")" && pwd)"
 OUT_DIR="$PROJECT_ROOT/out"
 
 echo "=========================================="
-echo "Library Checkout System - Simple Build"
+echo "Library Checkout System - Easy Build Script"
 echo "=========================================="
 
 rm -rf "$OUT_DIR"
